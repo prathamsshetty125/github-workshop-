@@ -1,0 +1,22 @@
+h1{
+    color: yellow
+
+}
+.red{
+    
+    margin: 0;
+    padding: 0;
+    background-color: red;
+    color: white;
+    display: inline-block;
+
+}
+.green{
+    
+    margin: 0;
+    padding: 0;
+    background-color: green;
+    color: white;
+    display: inline-block;
+
+}
